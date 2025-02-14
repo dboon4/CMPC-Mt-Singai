@@ -1500,7 +1500,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "CMPC Singai",
+  "name": "CMPC Singai 360° VR Tour - 2024",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
